@@ -2,7 +2,7 @@ Summary:	Testing framework for infrastructure software
 Summary(pl.UTF-8):	Szkielet testów do oprogramowania infrastrukturalnego
 Name:		kyua
 Version:	0.13
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Tools
 #Source0Download: https://github.com/jmmv/kyua/releases/download
